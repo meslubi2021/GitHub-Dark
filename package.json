@@ -7,7 +7,7 @@
     "eslint": "8.51.0",
     "eslint-config-silverwind": "76.0.3",
     "fast-glob": "3.3.1",
-    "fetch-css": "4.1.1",
+    "fetch-css": "4.1.2",
     "fetch-enhanced": "11.1.2",
     "node-fetch": "3.3.2",
     "open": "9.1.0",
